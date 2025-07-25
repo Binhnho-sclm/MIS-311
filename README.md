@@ -1,6 +1,6 @@
 # 💥 Project 1: Data 10- Supermarket Sale
 ## 🌸Context and Objective
-The dataset records sales transactions from a retail business with physical stores in multiple cities (Chicago, New York, Los Angeles). It includes details. The objective is The goal is to understand the dataset’s structure, identify patterns, relationships, and potential insights, and prepare it for deeper analysis, focusing on both numerical and visual exploration.
+The dataset records sales transactions from a retail business with physical stores in multiple cities (Chicago, New York, Los Angeles). It includes details. The objective is to understand the dataset’s structure, identify patterns, relationships, and potential insights, and prepare it for deeper analysis, focusing on both numerical and visual exploration.
 ## 🌷Key Variables:
 Sale_id (object): Unique identifier 
 
